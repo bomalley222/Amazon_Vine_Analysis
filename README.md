@@ -6,3 +6,4 @@
 ###  The ETL process is used to extract the dataset, transform the data, connect to an AWS RDS instance, and load the transformed data into pgAdmin. PySpark, was used to determine if there is any bias toward favorable reviews from Vine members in your dataset.
 
 ## Results
+![](Amazon_Vine_Analysis/blob/main/16_Resources/Screen%20Shot%202021-11-28%20at%2011.38.14%20PM.png)
